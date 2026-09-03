@@ -101,3 +101,6 @@ Problem solved: Prepared the documentation-only project snapshot for public GitH
 Edited files:
     [.gitignore: ADD publication boundary rules for raw data, generated products, credentials, caches, and local paper PDFs]
     [LOG.md: ADD this GitHub publication operation record]
+
+[Tested&Ran on time: 2026-09-03 22:34:42 CST]
+Running Result: GitHub publication succeeded over SSH as `SuperCRISPR`; remote `main` matched commit `3d50dc4382f38076aec7e74040be48ccc25b5952` after readback. The public snapshot contains 74 tracked paths, excludes the 4 local paper PDFs, and includes no raw data, model outputs, or credentials.
