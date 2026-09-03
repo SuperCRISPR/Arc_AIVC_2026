@@ -1,0 +1,30 @@
+schema_version: 1
+decision_id: SXX-RD-capability
+stage_id: SXX
+task_id: SXX.T00
+capability: replace_with_capability_description
+reviewed_at: YYYY-MM-DD
+reuse_gate: fail
+project_assets_checked: []
+installed_options_checked: []
+reference_cards_read: []
+live_primary_sources: []
+candidates:
+  - name: replace_with_candidate_name
+    source: replace_with_official_source
+    version_or_commit: replace_with_exact_version
+    license: replace_with_license
+    interface_fit: unresolved
+    scientific_fit: unresolved
+    scale_and_maintenance_fit: unresolved
+    disposition: shortlist_or_reject
+selected_route: defer
+selected_asset: null
+adapter_seam: null
+license_verdict: unresolved
+validation_status: planned
+archive_updates: []
+rejected_candidates: []
+minimal_new_exception: null
+approvals_required: []
+unresolved_items: []
